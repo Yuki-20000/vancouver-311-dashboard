@@ -2,7 +2,7 @@
 
 Interactive dashboard for visualizing Vancouver's 311 service requests.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://xxx.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vancouver-311-dashboard.streamlit.app/)
 
 ## 📊 Overview
 This Streamlit dashboard provides an interactive visualization of Vancouver's 311 service requests from the past 3 months. The data is fetched from the City of Vancouver's Open Data Portal.
