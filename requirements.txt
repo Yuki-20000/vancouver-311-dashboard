@@ -1,0 +1,9 @@
+altair
+geopandas
+folium
+pandas
+python-dateutil
+requests
+shapely
+streamlit
+streamlit-folium
